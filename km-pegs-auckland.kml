@@ -1,0 +1,1609 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="OGRGeoJSON" id="OGRGeoJSON">
+	<SimpleField name="FID" type="int"></SimpleField>
+	<SimpleField name="KM" type="float"></SimpleField>
+	<SimpleField name="LINE" type="string"></SimpleField>
+	<SimpleField name="KPOST" type="string"></SimpleField>
+	<SimpleField name="LINECODE" type="string"></SimpleField>
+	<SimpleField name="LINE_ABBRV" type="string"></SimpleField>
+</Schema>
+<Folder><name>OGRGeoJSON</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">3753</SimpleData>
+		<SimpleData name="KM">33</SimpleData>
+		<SimpleData name="LINE">North Auckland Line</SimpleData>
+		<SimpleData name="KPOST">33/North Auckland Line</SimpleData>
+		<SimpleData name="LINECODE">81</SimpleData>
+		<SimpleData name="LINE_ABBRV">NAL</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.567805529766929,-36.868481946303078,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">3754</SimpleData>
+		<SimpleData name="KM">34</SimpleData>
+		<SimpleData name="LINE">North Auckland Line</SimpleData>
+		<SimpleData name="KPOST">34/North Auckland Line</SimpleData>
+		<SimpleData name="LINECODE">81</SimpleData>
+		<SimpleData name="LINE_ABBRV">NAL</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.557094563193658,-36.862289548926171,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">3755</SimpleData>
+		<SimpleData name="KM">36</SimpleData>
+		<SimpleData name="LINE">North Auckland Line</SimpleData>
+		<SimpleData name="KPOST">36/North Auckland Line</SimpleData>
+		<SimpleData name="LINECODE">81</SimpleData>
+		<SimpleData name="LINE_ABBRV">NAL</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.543566979041628,-36.849970744374453,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">3756</SimpleData>
+		<SimpleData name="KM">35</SimpleData>
+		<SimpleData name="LINE">North Auckland Line</SimpleData>
+		<SimpleData name="KPOST">35/North Auckland Line</SimpleData>
+		<SimpleData name="LINECODE">81</SimpleData>
+		<SimpleData name="LINE_ABBRV">NAL</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.547863921008627,-36.857322103551319,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">3757</SimpleData>
+		<SimpleData name="KM">37</SimpleData>
+		<SimpleData name="LINE">North Auckland Line</SimpleData>
+		<SimpleData name="KPOST">37/North Auckland Line</SimpleData>
+		<SimpleData name="LINECODE">81</SimpleData>
+		<SimpleData name="LINE_ABBRV">NAL</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.547182492892262,-36.841510501359195,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">3758</SimpleData>
+		<SimpleData name="KM">38</SimpleData>
+		<SimpleData name="LINE">North Auckland Line</SimpleData>
+		<SimpleData name="KPOST">38/North Auckland Line</SimpleData>
+		<SimpleData name="LINECODE">81</SimpleData>
+		<SimpleData name="LINE_ABBRV">NAL</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.549268508963138,-36.832768911586768,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">3759</SimpleData>
+		<SimpleData name="KM">36.5</SimpleData>
+		<SimpleData name="LINE">North Auckland Line</SimpleData>
+		<SimpleData name="KPOST">36.5/North Auckland Line</SimpleData>
+		<SimpleData name="LINECODE">81</SimpleData>
+		<SimpleData name="LINE_ABBRV">NAL</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.545116323874538,-36.845686841493489,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">3760</SimpleData>
+		<SimpleData name="KM">35.5</SimpleData>
+		<SimpleData name="LINE">North Auckland Line</SimpleData>
+		<SimpleData name="KPOST">35.5/North Auckland Line</SimpleData>
+		<SimpleData name="LINECODE">81</SimpleData>
+		<SimpleData name="LINE_ABBRV">NAL</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.543760076285764,-36.854390754333529,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">3761</SimpleData>
+		<SimpleData name="KM">34.5</SimpleData>
+		<SimpleData name="LINE">North Auckland Line</SimpleData>
+		<SimpleData name="KPOST">34.5/North Auckland Line</SimpleData>
+		<SimpleData name="LINECODE">81</SimpleData>
+		<SimpleData name="LINE_ABBRV">NAL</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.552539064103769,-36.859722231491169,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">3762</SimpleData>
+		<SimpleData name="KM">39</SimpleData>
+		<SimpleData name="LINE">North Auckland Line</SimpleData>
+		<SimpleData name="KPOST">39/North Auckland Line</SimpleData>
+		<SimpleData name="LINECODE">81</SimpleData>
+		<SimpleData name="LINE_ABBRV">NAL</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.552780532319503,-36.824286335500375,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">2472</SimpleData>
+		<SimpleData name="KM">667</SimpleData>
+		<SimpleData name="LINE">North Island Main Trunk</SimpleData>
+		<SimpleData name="KPOST">667/North Island Main Trunk</SimpleData>
+		<SimpleData name="LINECODE">1</SimpleData>
+		<SimpleData name="LINE_ABBRV">NIMT</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.836796656158668,-36.924003255603949,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">2473</SimpleData>
+		<SimpleData name="KM">668</SimpleData>
+		<SimpleData name="LINE">North Island Main Trunk</SimpleData>
+		<SimpleData name="KPOST">668/North Island Main Trunk</SimpleData>
+		<SimpleData name="LINECODE">1</SimpleData>
+		<SimpleData name="LINE_ABBRV">NIMT</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.843250723662038,-36.917306861575092,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">2474</SimpleData>
+		<SimpleData name="KM">669</SimpleData>
+		<SimpleData name="LINE">North Island Main Trunk</SimpleData>
+		<SimpleData name="KPOST">669/North Island Main Trunk</SimpleData>
+		<SimpleData name="LINECODE">1</SimpleData>
+		<SimpleData name="LINE_ABBRV">NIMT</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.841729291559886,-36.908444282188988,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">2475</SimpleData>
+		<SimpleData name="KM">670</SimpleData>
+		<SimpleData name="LINE">North Island Main Trunk</SimpleData>
+		<SimpleData name="KPOST">670/North Island Main Trunk</SimpleData>
+		<SimpleData name="LINECODE">1</SimpleData>
+		<SimpleData name="LINE_ABBRV">NIMT</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.846442912946145,-36.900455396299215,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">2476</SimpleData>
+		<SimpleData name="KM">671</SimpleData>
+		<SimpleData name="LINE">North Island Main Trunk</SimpleData>
+		<SimpleData name="KPOST">671/North Island Main Trunk</SimpleData>
+		<SimpleData name="LINECODE">1</SimpleData>
+		<SimpleData name="LINE_ABBRV">NIMT</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.853066873150425,-36.893269362959551,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">2477</SimpleData>
+		<SimpleData name="KM">672</SimpleData>
+		<SimpleData name="LINE">North Island Main Trunk</SimpleData>
+		<SimpleData name="KPOST">672/North Island Main Trunk</SimpleData>
+		<SimpleData name="LINECODE">1</SimpleData>
+		<SimpleData name="LINE_ABBRV">NIMT</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.855571754006888,-36.88453152488951,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">2478</SimpleData>
+		<SimpleData name="KM">673</SimpleData>
+		<SimpleData name="LINE">North Island Main Trunk</SimpleData>
+		<SimpleData name="KPOST">673/North Island Main Trunk</SimpleData>
+		<SimpleData name="LINECODE">1</SimpleData>
+		<SimpleData name="LINE_ABBRV">NIMT</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.853289540439732,-36.875775279451197,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">2479</SimpleData>
+		<SimpleData name="KM">674</SimpleData>
+		<SimpleData name="LINE">North Island Main Trunk</SimpleData>
+		<SimpleData name="KPOST">674/North Island Main Trunk</SimpleData>
+		<SimpleData name="LINECODE">1</SimpleData>
+		<SimpleData name="LINE_ABBRV">NIMT</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.845313537487385,-36.870112572788592,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">2480</SimpleData>
+		<SimpleData name="KM">675</SimpleData>
+		<SimpleData name="LINE">North Island Main Trunk</SimpleData>
+		<SimpleData name="KPOST">675/North Island Main Trunk</SimpleData>
+		<SimpleData name="LINECODE">1</SimpleData>
+		<SimpleData name="LINE_ABBRV">NIMT</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.835269749648887,-36.866095035564761,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">2481</SimpleData>
+		<SimpleData name="KM">676</SimpleData>
+		<SimpleData name="LINE">North Island Main Trunk</SimpleData>
+		<SimpleData name="KPOST">676/North Island Main Trunk</SimpleData>
+		<SimpleData name="LINECODE">1</SimpleData>
+		<SimpleData name="LINE_ABBRV">NIMT</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.824151291395538,-36.866069885399277,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">2482</SimpleData>
+		<SimpleData name="KM">679</SimpleData>
+		<SimpleData name="LINE">North Island Main Trunk</SimpleData>
+		<SimpleData name="KPOST">679/North Island Main Trunk</SimpleData>
+		<SimpleData name="LINECODE">1</SimpleData>
+		<SimpleData name="LINE_ABBRV">NIMT</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.796677238989503,-36.852547535719644,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">2483</SimpleData>
+		<SimpleData name="KM">680</SimpleData>
+		<SimpleData name="LINE">North Island Main Trunk</SimpleData>
+		<SimpleData name="KPOST">680/North Island Main Trunk</SimpleData>
+		<SimpleData name="LINECODE">1</SimpleData>
+		<SimpleData name="LINE_ABBRV">NIMT</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.787690416970946,-36.848143141165316,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">2484</SimpleData>
+		<SimpleData name="KM">677</SimpleData>
+		<SimpleData name="LINE">North Island Main Trunk</SimpleData>
+		<SimpleData name="KPOST">677/North Island Main Trunk</SimpleData>
+		<SimpleData name="LINECODE">1</SimpleData>
+		<SimpleData name="LINE_ABBRV">NIMT</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.813646973920527,-36.863937505623582,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">2485</SimpleData>
+		<SimpleData name="KM">678</SimpleData>
+		<SimpleData name="LINE">North Island Main Trunk</SimpleData>
+		<SimpleData name="KPOST">678/North Island Main Trunk</SimpleData>
+		<SimpleData name="LINECODE">1</SimpleData>
+		<SimpleData name="LINE_ABBRV">NIMT</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.804221754246669,-36.85921870561851,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">2486</SimpleData>
+		<SimpleData name="KM">664</SimpleData>
+		<SimpleData name="LINE">North Island Main Trunk</SimpleData>
+		<SimpleData name="KPOST">664/North Island Main Trunk</SimpleData>
+		<SimpleData name="LINECODE">1</SimpleData>
+		<SimpleData name="LINE_ABBRV">NIMT</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.833438285798735,-36.948239151730753,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">2487</SimpleData>
+		<SimpleData name="KM">665</SimpleData>
+		<SimpleData name="LINE">North Island Main Trunk</SimpleData>
+		<SimpleData name="KPOST">665/North Island Main Trunk</SimpleData>
+		<SimpleData name="LINECODE">1</SimpleData>
+		<SimpleData name="LINE_ABBRV">NIMT</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.832035246645802,-36.939308880919633,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">2497</SimpleData>
+		<SimpleData name="KM">656</SimpleData>
+		<SimpleData name="LINE">North Island Main Trunk</SimpleData>
+		<SimpleData name="KPOST">656/North Island Main Trunk</SimpleData>
+		<SimpleData name="LINECODE">1</SimpleData>
+		<SimpleData name="LINE_ABBRV">NIMT</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.871935751136022,-37.011882600672941,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">2498</SimpleData>
+		<SimpleData name="KM">657</SimpleData>
+		<SimpleData name="LINE">North Island Main Trunk</SimpleData>
+		<SimpleData name="KPOST">657/North Island Main Trunk</SimpleData>
+		<SimpleData name="LINECODE">1</SimpleData>
+		<SimpleData name="LINE_ABBRV">NIMT</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.864092550526664,-37.005764446131039,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">2499</SimpleData>
+		<SimpleData name="KM">658</SimpleData>
+		<SimpleData name="LINE">North Island Main Trunk</SimpleData>
+		<SimpleData name="KPOST">658/North Island Main Trunk</SimpleData>
+		<SimpleData name="LINECODE">1</SimpleData>
+		<SimpleData name="LINE_ABBRV">NIMT</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.860534843300144,-36.997210493699818,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">2500</SimpleData>
+		<SimpleData name="KM">659</SimpleData>
+		<SimpleData name="LINE">North Island Main Trunk</SimpleData>
+		<SimpleData name="KPOST">659/North Island Main Trunk</SimpleData>
+		<SimpleData name="LINECODE">1</SimpleData>
+		<SimpleData name="LINE_ABBRV">NIMT</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.85569198877289,-36.989120202792648,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">2501</SimpleData>
+		<SimpleData name="KM">660</SimpleData>
+		<SimpleData name="LINE">North Island Main Trunk</SimpleData>
+		<SimpleData name="KPOST">660/North Island Main Trunk</SimpleData>
+		<SimpleData name="LINECODE">1</SimpleData>
+		<SimpleData name="LINE_ABBRV">NIMT</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.851361678142013,-36.980803155679411,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">2502</SimpleData>
+		<SimpleData name="KM">661</SimpleData>
+		<SimpleData name="LINE">North Island Main Trunk</SimpleData>
+		<SimpleData name="KPOST">661/North Island Main Trunk</SimpleData>
+		<SimpleData name="LINECODE">1</SimpleData>
+		<SimpleData name="LINE_ABBRV">NIMT</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.845839206705364,-36.972960141688354,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">2503</SimpleData>
+		<SimpleData name="KM">662</SimpleData>
+		<SimpleData name="LINE">North Island Main Trunk</SimpleData>
+		<SimpleData name="KPOST">662/North Island Main Trunk</SimpleData>
+		<SimpleData name="LINECODE">1</SimpleData>
+		<SimpleData name="LINE_ABBRV">NIMT</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.840388789386822,-36.965080537566642,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">2504</SimpleData>
+		<SimpleData name="KM">663</SimpleData>
+		<SimpleData name="LINE">North Island Main Trunk</SimpleData>
+		<SimpleData name="KPOST">663/North Island Main Trunk</SimpleData>
+		<SimpleData name="LINECODE">1</SimpleData>
+		<SimpleData name="LINE_ABBRV">NIMT</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.835172595003002,-36.957121887276472,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">2515</SimpleData>
+		<SimpleData name="KM">656.5</SimpleData>
+		<SimpleData name="LINE">North Island Main Trunk</SimpleData>
+		<SimpleData name="KPOST">656.5/North Island Main Trunk</SimpleData>
+		<SimpleData name="LINECODE">1</SimpleData>
+		<SimpleData name="LINE_ABBRV">NIMT</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.867366814632845,-37.009271877362146,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">2516</SimpleData>
+		<SimpleData name="KM">657.5</SimpleData>
+		<SimpleData name="LINE">North Island Main Trunk</SimpleData>
+		<SimpleData name="KPOST">657.5/North Island Main Trunk</SimpleData>
+		<SimpleData name="LINECODE">1</SimpleData>
+		<SimpleData name="LINE_ABBRV">NIMT</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.862237718944584,-37.00153034633221,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">2517</SimpleData>
+		<SimpleData name="KM">658.5</SimpleData>
+		<SimpleData name="LINE">North Island Main Trunk</SimpleData>
+		<SimpleData name="KPOST">658.5/North Island Main Trunk</SimpleData>
+		<SimpleData name="LINECODE">1</SimpleData>
+		<SimpleData name="LINE_ABBRV">NIMT</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.858169703124219,-36.993151005789024,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">2518</SimpleData>
+		<SimpleData name="KM">659.5</SimpleData>
+		<SimpleData name="LINE">North Island Main Trunk</SimpleData>
+		<SimpleData name="KPOST">659.5/North Island Main Trunk</SimpleData>
+		<SimpleData name="LINECODE">1</SimpleData>
+		<SimpleData name="LINE_ABBRV">NIMT</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.853565738217299,-36.98495732073998,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">2519</SimpleData>
+		<SimpleData name="KM">660.5</SimpleData>
+		<SimpleData name="LINE">North Island Main Trunk</SimpleData>
+		<SimpleData name="KPOST">660.5/North Island Main Trunk</SimpleData>
+		<SimpleData name="LINECODE">1</SimpleData>
+		<SimpleData name="LINE_ABBRV">NIMT</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.848725302001611,-36.976839659156937,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">2520</SimpleData>
+		<SimpleData name="KM">661.5</SimpleData>
+		<SimpleData name="LINE">North Island Main Trunk</SimpleData>
+		<SimpleData name="KPOST">661.5/North Island Main Trunk</SimpleData>
+		<SimpleData name="LINECODE">1</SimpleData>
+		<SimpleData name="LINE_ABBRV">NIMT</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.843045691476618,-36.969074513947504,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">2521</SimpleData>
+		<SimpleData name="KM">662.5</SimpleData>
+		<SimpleData name="LINE">North Island Main Trunk</SimpleData>
+		<SimpleData name="KPOST">662.5/North Island Main Trunk</SimpleData>
+		<SimpleData name="LINECODE">1</SimpleData>
+		<SimpleData name="LINE_ABBRV">NIMT</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.837751821694269,-36.961115385539664,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">2522</SimpleData>
+		<SimpleData name="KM">663.5</SimpleData>
+		<SimpleData name="LINE">North Island Main Trunk</SimpleData>
+		<SimpleData name="KPOST">663.5/North Island Main Trunk</SimpleData>
+		<SimpleData name="LINECODE">1</SimpleData>
+		<SimpleData name="LINE_ABBRV">NIMT</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.834228960313538,-36.952696478672934,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">2523</SimpleData>
+		<SimpleData name="KM">664.5</SimpleData>
+		<SimpleData name="LINE">North Island Main Trunk</SimpleData>
+		<SimpleData name="KPOST">664.5/North Island Main Trunk</SimpleData>
+		<SimpleData name="LINECODE">1</SimpleData>
+		<SimpleData name="LINE_ABBRV">NIMT</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.832766029537879,-36.943779601664126,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">2524</SimpleData>
+		<SimpleData name="KM">665.5</SimpleData>
+		<SimpleData name="LINE">North Island Main Trunk</SimpleData>
+		<SimpleData name="KPOST">665.5/North Island Main Trunk</SimpleData>
+		<SimpleData name="LINECODE">1</SimpleData>
+		<SimpleData name="LINE_ABBRV">NIMT</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.831184250957165,-36.934865315726249,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">2525</SimpleData>
+		<SimpleData name="KM">667.5</SimpleData>
+		<SimpleData name="LINE">North Island Main Trunk</SimpleData>
+		<SimpleData name="KPOST">667.5/North Island Main Trunk</SimpleData>
+		<SimpleData name="LINECODE">1</SimpleData>
+		<SimpleData name="LINE_ABBRV">NIMT</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.841374380754644,-36.921411135755896,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">2526</SimpleData>
+		<SimpleData name="KM">666.5</SimpleData>
+		<SimpleData name="LINE">North Island Main Trunk</SimpleData>
+		<SimpleData name="KPOST">666.5/North Island Main Trunk</SimpleData>
+		<SimpleData name="LINECODE">1</SimpleData>
+		<SimpleData name="LINE_ABBRV">NIMT</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.832105181741781,-36.926503409903304,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">2527</SimpleData>
+		<SimpleData name="KM">668.5</SimpleData>
+		<SimpleData name="LINE">North Island Main Trunk</SimpleData>
+		<SimpleData name="KPOST">668.5/North Island Main Trunk</SimpleData>
+		<SimpleData name="LINECODE">1</SimpleData>
+		<SimpleData name="LINE_ABBRV">NIMT</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.842124637528912,-36.912891476971296,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">2528</SimpleData>
+		<SimpleData name="KM">669.5</SimpleData>
+		<SimpleData name="LINE">North Island Main Trunk</SimpleData>
+		<SimpleData name="KPOST">669.5/North Island Main Trunk</SimpleData>
+		<SimpleData name="LINECODE">1</SimpleData>
+		<SimpleData name="LINE_ABBRV">NIMT</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.843249489166681,-36.90412060191224,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">2529</SimpleData>
+		<SimpleData name="KM">670.5</SimpleData>
+		<SimpleData name="LINE">North Island Main Trunk</SimpleData>
+		<SimpleData name="KPOST">670.5/North Island Main Trunk</SimpleData>
+		<SimpleData name="LINECODE">1</SimpleData>
+		<SimpleData name="LINE_ABBRV">NIMT</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.850296560622809,-36.897167301047453,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">2530</SimpleData>
+		<SimpleData name="KM">671.5</SimpleData>
+		<SimpleData name="LINE">North Island Main Trunk</SimpleData>
+		<SimpleData name="KPOST">671.5/North Island Main Trunk</SimpleData>
+		<SimpleData name="LINECODE">1</SimpleData>
+		<SimpleData name="LINE_ABBRV">NIMT</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.854660454628316,-36.888949126075289,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">2531</SimpleData>
+		<SimpleData name="KM">672.5</SimpleData>
+		<SimpleData name="LINE">North Island Main Trunk</SimpleData>
+		<SimpleData name="KPOST">672.5/North Island Main Trunk</SimpleData>
+		<SimpleData name="LINECODE">1</SimpleData>
+		<SimpleData name="LINE_ABBRV">NIMT</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.854549072061474,-36.880127492195967,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">2532</SimpleData>
+		<SimpleData name="KM">673.5</SimpleData>
+		<SimpleData name="LINE">North Island Main Trunk</SimpleData>
+		<SimpleData name="KPOST">673.5/North Island Main Trunk</SimpleData>
+		<SimpleData name="LINECODE">1</SimpleData>
+		<SimpleData name="LINE_ABBRV">NIMT</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.850327749681327,-36.872090578383705,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">2533</SimpleData>
+		<SimpleData name="KM">675.5</SimpleData>
+		<SimpleData name="LINE">North Island Main Trunk</SimpleData>
+		<SimpleData name="KPOST">675.5/North Island Main Trunk</SimpleData>
+		<SimpleData name="LINECODE">1</SimpleData>
+		<SimpleData name="LINE_ABBRV">NIMT</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.829677322381286,-36.865500358721597,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">2534</SimpleData>
+		<SimpleData name="KM">674.5</SimpleData>
+		<SimpleData name="LINE">North Island Main Trunk</SimpleData>
+		<SimpleData name="KPOST">674.5/North Island Main Trunk</SimpleData>
+		<SimpleData name="LINECODE">1</SimpleData>
+		<SimpleData name="LINE_ABBRV">NIMT</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.840289644646475,-36.868096519455896,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">2535</SimpleData>
+		<SimpleData name="KM">676.5</SimpleData>
+		<SimpleData name="LINE">North Island Main Trunk</SimpleData>
+		<SimpleData name="KPOST">676.5/North Island Main Trunk</SimpleData>
+		<SimpleData name="LINECODE">1</SimpleData>
+		<SimpleData name="LINE_ABBRV">NIMT</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.818715989537793,-36.865826988291012,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">2536</SimpleData>
+		<SimpleData name="KM">677.5</SimpleData>
+		<SimpleData name="LINE">North Island Main Trunk</SimpleData>
+		<SimpleData name="KPOST">677.5/North Island Main Trunk</SimpleData>
+		<SimpleData name="LINECODE">1</SimpleData>
+		<SimpleData name="LINE_ABBRV">NIMT</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.808546931161629,-36.86208359591037,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">2537</SimpleData>
+		<SimpleData name="KM">679.5</SimpleData>
+		<SimpleData name="LINE">North Island Main Trunk</SimpleData>
+		<SimpleData name="KPOST">679.5/North Island Main Trunk</SimpleData>
+		<SimpleData name="LINECODE">1</SimpleData>
+		<SimpleData name="LINE_ABBRV">NIMT</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.792898763506344,-36.849211746437767,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">2538</SimpleData>
+		<SimpleData name="KM">678.5</SimpleData>
+		<SimpleData name="LINE">North Island Main Trunk</SimpleData>
+		<SimpleData name="KPOST">678.5/North Island Main Trunk</SimpleData>
+		<SimpleData name="LINECODE">1</SimpleData>
+		<SimpleData name="LINE_ABBRV">NIMT</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.800453561879493,-36.855883957344801,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">2539</SimpleData>
+		<SimpleData name="KM">680.5</SimpleData>
+		<SimpleData name="LINE">North Island Main Trunk</SimpleData>
+		<SimpleData name="KPOST">680.5/North Island Main Trunk</SimpleData>
+		<SimpleData name="LINECODE">1</SimpleData>
+		<SimpleData name="LINE_ABBRV">NIMT</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.782110987663657,-36.848267404024455,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">2540</SimpleData>
+		<SimpleData name="KM">681</SimpleData>
+		<SimpleData name="LINE">North Island Main Trunk</SimpleData>
+		<SimpleData name="KPOST">681/North Island Main Trunk</SimpleData>
+		<SimpleData name="LINECODE">1</SimpleData>
+		<SimpleData name="LINE_ABBRV">NIMT</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.777002834201625,-36.846651209114818,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">2541</SimpleData>
+		<SimpleData name="KM">681.5</SimpleData>
+		<SimpleData name="LINE">North Island Main Trunk</SimpleData>
+		<SimpleData name="KPOST">681.5/North Island Main Trunk</SimpleData>
+		<SimpleData name="LINECODE">1</SimpleData>
+		<SimpleData name="LINE_ABBRV">NIMT</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.771660764842977,-36.845249818921424,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">2543</SimpleData>
+		<SimpleData name="KM">666</SimpleData>
+		<SimpleData name="LINE">North Island Main Trunk</SimpleData>
+		<SimpleData name="KPOST">666/North Island Main Trunk</SimpleData>
+		<SimpleData name="LINECODE">1</SimpleData>
+		<SimpleData name="LINE_ABBRV">NIMT</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.830242602242208,-36.930431639787621,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">4021</SimpleData>
+		<SimpleData name="KM">14</SimpleData>
+		<SimpleData name="LINE">North Auckland Line</SimpleData>
+		<SimpleData name="KPOST">14/North Auckland Line</SimpleData>
+		<SimpleData name="LINECODE">81</SimpleData>
+		<SimpleData name="LINE_ABBRV">NAL</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.723397267833775,-36.877074143432026,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">4022</SimpleData>
+		<SimpleData name="KM">0</SimpleData>
+		<SimpleData name="LINE">North Auckland Line</SimpleData>
+		<SimpleData name="KPOST">0/North Auckland Line</SimpleData>
+		<SimpleData name="LINECODE">81</SimpleData>
+		<SimpleData name="LINE_ABBRV">NAL</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.830221196838579,-36.930364473133089,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">4023</SimpleData>
+		<SimpleData name="KM">1</SimpleData>
+		<SimpleData name="LINE">North Auckland Line</SimpleData>
+		<SimpleData name="KPOST">1/North Auckland Line</SimpleData>
+		<SimpleData name="LINECODE">81</SimpleData>
+		<SimpleData name="LINE_ABBRV">NAL</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.825012382226618,-36.922430974523564,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">4024</SimpleData>
+		<SimpleData name="KM">2</SimpleData>
+		<SimpleData name="LINE">North Auckland Line</SimpleData>
+		<SimpleData name="KPOST">2/North Auckland Line</SimpleData>
+		<SimpleData name="LINECODE">81</SimpleData>
+		<SimpleData name="LINE_ABBRV">NAL</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.819062781617731,-36.914795664880373,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">4025</SimpleData>
+		<SimpleData name="KM">3</SimpleData>
+		<SimpleData name="LINE">North Auckland Line</SimpleData>
+		<SimpleData name="KPOST">3/North Auckland Line</SimpleData>
+		<SimpleData name="LINECODE">81</SimpleData>
+		<SimpleData name="LINE_ABBRV">NAL</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.812937959408629,-36.907323872821244,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">4026</SimpleData>
+		<SimpleData name="KM">4</SimpleData>
+		<SimpleData name="LINE">North Auckland Line</SimpleData>
+		<SimpleData name="KPOST">4/North Auckland Line</SimpleData>
+		<SimpleData name="LINECODE">81</SimpleData>
+		<SimpleData name="LINE_ABBRV">NAL</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.80850860049668,-36.89920940638094,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">4027</SimpleData>
+		<SimpleData name="KM">5</SimpleData>
+		<SimpleData name="LINE">North Auckland Line</SimpleData>
+		<SimpleData name="KPOST">5/North Auckland Line</SimpleData>
+		<SimpleData name="LINECODE">81</SimpleData>
+		<SimpleData name="LINE_ABBRV">NAL</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.801749106125641,-36.892282660066378,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">4028</SimpleData>
+		<SimpleData name="KM">6</SimpleData>
+		<SimpleData name="LINE">North Auckland Line</SimpleData>
+		<SimpleData name="KPOST">6/North Auckland Line</SimpleData>
+		<SimpleData name="LINECODE">81</SimpleData>
+		<SimpleData name="LINE_ABBRV">NAL</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.792660201402072,-36.88700633023538,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">4029</SimpleData>
+		<SimpleData name="KM">7</SimpleData>
+		<SimpleData name="LINE">North Auckland Line</SimpleData>
+		<SimpleData name="KPOST">7/North Auckland Line</SimpleData>
+		<SimpleData name="LINECODE">81</SimpleData>
+		<SimpleData name="LINE_ABBRV">NAL</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.784701556850393,-36.880709622679149,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">4030</SimpleData>
+		<SimpleData name="KM">8</SimpleData>
+		<SimpleData name="LINE">North Auckland Line</SimpleData>
+		<SimpleData name="KPOST">8/North Auckland Line</SimpleData>
+		<SimpleData name="LINECODE">81</SimpleData>
+		<SimpleData name="LINE_ABBRV">NAL</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.778978487364924,-36.873057142316256,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">4031</SimpleData>
+		<SimpleData name="KM">9</SimpleData>
+		<SimpleData name="LINE">North Auckland Line</SimpleData>
+		<SimpleData name="KPOST">9/North Auckland Line</SimpleData>
+		<SimpleData name="LINECODE">81</SimpleData>
+		<SimpleData name="LINE_ABBRV">NAL</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.775820863806047,-36.865919390255449,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">4032</SimpleData>
+		<SimpleData name="KM">10</SimpleData>
+		<SimpleData name="LINE">North Auckland Line</SimpleData>
+		<SimpleData name="KPOST">10/North Auckland Line</SimpleData>
+		<SimpleData name="LINECODE">81</SimpleData>
+		<SimpleData name="LINE_ABBRV">NAL</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.765136862962606,-36.866996686445049,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">4033</SimpleData>
+		<SimpleData name="KM">11</SimpleData>
+		<SimpleData name="LINE">North Auckland Line</SimpleData>
+		<SimpleData name="KPOST">11/North Auckland Line</SimpleData>
+		<SimpleData name="LINECODE">81</SimpleData>
+		<SimpleData name="LINE_ABBRV">NAL</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.754680461078237,-36.869021387584958,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">4034</SimpleData>
+		<SimpleData name="KM">12</SimpleData>
+		<SimpleData name="LINE">North Auckland Line</SimpleData>
+		<SimpleData name="KPOST">12/North Auckland Line</SimpleData>
+		<SimpleData name="LINECODE">81</SimpleData>
+		<SimpleData name="LINE_ABBRV">NAL</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.744726342086238,-36.872471941423598,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">4035</SimpleData>
+		<SimpleData name="KM">13</SimpleData>
+		<SimpleData name="LINE">North Auckland Line</SimpleData>
+		<SimpleData name="KPOST">13/North Auckland Line</SimpleData>
+		<SimpleData name="LINECODE">81</SimpleData>
+		<SimpleData name="LINE_ABBRV">NAL</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.734324366036844,-36.875428308785608,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">4036</SimpleData>
+		<SimpleData name="KM">15</SimpleData>
+		<SimpleData name="LINE">North Auckland Line</SimpleData>
+		<SimpleData name="KPOST">15/North Auckland Line</SimpleData>
+		<SimpleData name="LINECODE">81</SimpleData>
+		<SimpleData name="LINE_ABBRV">NAL</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.715771424534324,-36.882788342085881,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">4037</SimpleData>
+		<SimpleData name="KM">16</SimpleData>
+		<SimpleData name="LINE">North Auckland Line</SimpleData>
+		<SimpleData name="KPOST">16/North Auckland Line</SimpleData>
+		<SimpleData name="LINECODE">81</SimpleData>
+		<SimpleData name="LINE_ABBRV">NAL</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.708768033003764,-36.889771075166763,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">4038</SimpleData>
+		<SimpleData name="KM">17</SimpleData>
+		<SimpleData name="LINE">North Auckland Line</SimpleData>
+		<SimpleData name="KPOST">17/North Auckland Line</SimpleData>
+		<SimpleData name="LINECODE">81</SimpleData>
+		<SimpleData name="LINE_ABBRV">NAL</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.699744843770816,-36.895014429545306,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">4039</SimpleData>
+		<SimpleData name="KM">18</SimpleData>
+		<SimpleData name="LINE">North Auckland Line</SimpleData>
+		<SimpleData name="KPOST">18/North Auckland Line</SimpleData>
+		<SimpleData name="LINECODE">81</SimpleData>
+		<SimpleData name="LINE_ABBRV">NAL</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.697659724700657,-36.903743161087775,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">4040</SimpleData>
+		<SimpleData name="KM">19</SimpleData>
+		<SimpleData name="LINE">North Auckland Line</SimpleData>
+		<SimpleData name="KPOST">19/North Auckland Line</SimpleData>
+		<SimpleData name="LINECODE">81</SimpleData>
+		<SimpleData name="LINE_ABBRV">NAL</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.689242958064995,-36.907857354414595,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">4041</SimpleData>
+		<SimpleData name="KM">20</SimpleData>
+		<SimpleData name="LINE">North Auckland Line</SimpleData>
+		<SimpleData name="KPOST">20/North Auckland Line</SimpleData>
+		<SimpleData name="LINECODE">81</SimpleData>
+		<SimpleData name="LINE_ABBRV">NAL</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.678686609683069,-36.910699414605588,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">4042</SimpleData>
+		<SimpleData name="KM">21</SimpleData>
+		<SimpleData name="LINE">North Auckland Line</SimpleData>
+		<SimpleData name="KPOST">21/North Auckland Line</SimpleData>
+		<SimpleData name="LINECODE">81</SimpleData>
+		<SimpleData name="LINE_ABBRV">NAL</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.667677239170899,-36.910883614515171,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">4043</SimpleData>
+		<SimpleData name="KM">22</SimpleData>
+		<SimpleData name="LINE">North Auckland Line</SimpleData>
+		<SimpleData name="KPOST">22/North Auckland Line</SimpleData>
+		<SimpleData name="LINECODE">81</SimpleData>
+		<SimpleData name="LINE_ABBRV">NAL</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.656845218097885,-36.911319890516118,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">4044</SimpleData>
+		<SimpleData name="KM">24</SimpleData>
+		<SimpleData name="LINE">North Auckland Line</SimpleData>
+		<SimpleData name="KPOST">24/North Auckland Line</SimpleData>
+		<SimpleData name="LINECODE">81</SimpleData>
+		<SimpleData name="LINE_ABBRV">NAL</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.637004134575648,-36.903490795456271,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">4045</SimpleData>
+		<SimpleData name="KM">25</SimpleData>
+		<SimpleData name="LINE">North Auckland Line</SimpleData>
+		<SimpleData name="KPOST">25/North Auckland Line</SimpleData>
+		<SimpleData name="LINECODE">81</SimpleData>
+		<SimpleData name="LINE_ABBRV">NAL</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.631808989746162,-36.895891321826468,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">4046</SimpleData>
+		<SimpleData name="KM">26</SimpleData>
+		<SimpleData name="LINE">North Auckland Line</SimpleData>
+		<SimpleData name="KPOST">26/North Auckland Line</SimpleData>
+		<SimpleData name="LINECODE">81</SimpleData>
+		<SimpleData name="LINE_ABBRV">NAL</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.631301450455311,-36.886902242813044,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">4047</SimpleData>
+		<SimpleData name="KM">27</SimpleData>
+		<SimpleData name="LINE">North Auckland Line</SimpleData>
+		<SimpleData name="KPOST">27/North Auckland Line</SimpleData>
+		<SimpleData name="LINECODE">81</SimpleData>
+		<SimpleData name="LINE_ABBRV">NAL</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.629833122708163,-36.87808580356819,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">4048</SimpleData>
+		<SimpleData name="KM">28</SimpleData>
+		<SimpleData name="LINE">North Auckland Line</SimpleData>
+		<SimpleData name="KPOST">28/North Auckland Line</SimpleData>
+		<SimpleData name="LINECODE">81</SimpleData>
+		<SimpleData name="LINE_ABBRV">NAL</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.620581374587857,-36.873458054154753,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">4049</SimpleData>
+		<SimpleData name="KM">29</SimpleData>
+		<SimpleData name="LINE">North Auckland Line</SimpleData>
+		<SimpleData name="KPOST">29/North Auckland Line</SimpleData>
+		<SimpleData name="LINECODE">81</SimpleData>
+		<SimpleData name="LINE_ABBRV">NAL</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.611095096298925,-36.869108116659518,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">4050</SimpleData>
+		<SimpleData name="KM">30</SimpleData>
+		<SimpleData name="LINE">North Auckland Line</SimpleData>
+		<SimpleData name="KPOST">30/North Auckland Line</SimpleData>
+		<SimpleData name="LINECODE">81</SimpleData>
+		<SimpleData name="LINE_ABBRV">NAL</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.600022676901773,-36.86750376571095,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">4051</SimpleData>
+		<SimpleData name="KM">31</SimpleData>
+		<SimpleData name="LINE">North Auckland Line</SimpleData>
+		<SimpleData name="KPOST">31/North Auckland Line</SimpleData>
+		<SimpleData name="LINECODE">81</SimpleData>
+		<SimpleData name="LINE_ABBRV">NAL</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.588836677876941,-36.867776682329442,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">4052</SimpleData>
+		<SimpleData name="KM">32</SimpleData>
+		<SimpleData name="LINE">North Auckland Line</SimpleData>
+		<SimpleData name="KPOST">32/North Auckland Line</SimpleData>
+		<SimpleData name="LINECODE">81</SimpleData>
+		<SimpleData name="LINE_ABBRV">NAL</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.577812151607418,-36.866509632417809,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">4053</SimpleData>
+		<SimpleData name="KM">23</SimpleData>
+		<SimpleData name="LINE">North Auckland Line</SimpleData>
+		<SimpleData name="KPOST">23/North Auckland Line</SimpleData>
+		<SimpleData name="LINECODE">81</SimpleData>
+		<SimpleData name="LINE_ABBRV">NAL</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.646450874959072,-36.908036665473247,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">4054</SimpleData>
+		<SimpleData name="KM">0.5</SimpleData>
+		<SimpleData name="LINE">North Auckland Line</SimpleData>
+		<SimpleData name="KPOST">0.5/North Auckland Line</SimpleData>
+		<SimpleData name="LINECODE">81</SimpleData>
+		<SimpleData name="LINE_ABBRV">NAL</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.827981040356065,-36.926254295702115,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">4055</SimpleData>
+		<SimpleData name="KM">1.5</SimpleData>
+		<SimpleData name="LINE">North Auckland Line</SimpleData>
+		<SimpleData name="KPOST">1.5/North Auckland Line</SimpleData>
+		<SimpleData name="LINECODE">81</SimpleData>
+		<SimpleData name="LINE_ABBRV">NAL</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.822033270505813,-36.918609499388928,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">4056</SimpleData>
+		<SimpleData name="KM">2.5</SimpleData>
+		<SimpleData name="LINE">North Auckland Line</SimpleData>
+		<SimpleData name="KPOST">2.5/North Auckland Line</SimpleData>
+		<SimpleData name="LINECODE">81</SimpleData>
+		<SimpleData name="LINE_ABBRV">NAL</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.816139079234176,-36.910946063246826,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">4057</SimpleData>
+		<SimpleData name="KM">3.5</SimpleData>
+		<SimpleData name="LINE">North Auckland Line</SimpleData>
+		<SimpleData name="KPOST">3.5/North Auckland Line</SimpleData>
+		<SimpleData name="LINECODE">81</SimpleData>
+		<SimpleData name="LINE_ABBRV">NAL</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.810394032535385,-36.903429767229852,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">4058</SimpleData>
+		<SimpleData name="KM">4.5</SimpleData>
+		<SimpleData name="LINE">North Auckland Line</SimpleData>
+		<SimpleData name="KPOST">4.5/North Auckland Line</SimpleData>
+		<SimpleData name="LINECODE">81</SimpleData>
+		<SimpleData name="LINE_ABBRV">NAL</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.806024682301455,-36.895188592827303,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">4059</SimpleData>
+		<SimpleData name="KM">5.5</SimpleData>
+		<SimpleData name="LINE">North Auckland Line</SimpleData>
+		<SimpleData name="KPOST">5.5/North Auckland Line</SimpleData>
+		<SimpleData name="LINECODE">81</SimpleData>
+		<SimpleData name="LINE_ABBRV">NAL</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.797241639896612,-36.889599450803637,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">4060</SimpleData>
+		<SimpleData name="KM">6.5</SimpleData>
+		<SimpleData name="LINE">North Auckland Line</SimpleData>
+		<SimpleData name="KPOST">6.5/North Auckland Line</SimpleData>
+		<SimpleData name="LINECODE">81</SimpleData>
+		<SimpleData name="LINE_ABBRV">NAL</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.788355767866534,-36.884136108567837,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">4061</SimpleData>
+		<SimpleData name="KM">7.5</SimpleData>
+		<SimpleData name="LINE">North Auckland Line</SimpleData>
+		<SimpleData name="KPOST">7.5/North Auckland Line</SimpleData>
+		<SimpleData name="LINECODE">81</SimpleData>
+		<SimpleData name="LINE_ABBRV">NAL</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.781348072548695,-36.877102250542102,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">4062</SimpleData>
+		<SimpleData name="KM">8.5</SimpleData>
+		<SimpleData name="LINE">North Auckland Line</SimpleData>
+		<SimpleData name="KPOST">8.5/North Auckland Line</SimpleData>
+		<SimpleData name="LINECODE">81</SimpleData>
+		<SimpleData name="LINE_ABBRV">NAL</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.779018809088569,-36.86860928175421,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">4063</SimpleData>
+		<SimpleData name="KM">9.5</SimpleData>
+		<SimpleData name="LINE">North Auckland Line</SimpleData>
+		<SimpleData name="KPOST">9.5/North Auckland Line</SimpleData>
+		<SimpleData name="LINECODE">81</SimpleData>
+		<SimpleData name="LINE_ABBRV">NAL</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.770433058996645,-36.865520667853957,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">4064</SimpleData>
+		<SimpleData name="KM">10.5</SimpleData>
+		<SimpleData name="LINE">North Auckland Line</SimpleData>
+		<SimpleData name="KPOST">10.5/North Auckland Line</SimpleData>
+		<SimpleData name="LINECODE">81</SimpleData>
+		<SimpleData name="LINE_ABBRV">NAL</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.759994413651242,-36.868179600586124,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">4065</SimpleData>
+		<SimpleData name="KM">11.5</SimpleData>
+		<SimpleData name="LINE">North Auckland Line</SimpleData>
+		<SimpleData name="KPOST">11.5/North Auckland Line</SimpleData>
+		<SimpleData name="LINECODE">81</SimpleData>
+		<SimpleData name="LINE_ABBRV">NAL</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.749484527627061,-36.87042714604479,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">4066</SimpleData>
+		<SimpleData name="KM">12.5</SimpleData>
+		<SimpleData name="LINE">North Auckland Line</SimpleData>
+		<SimpleData name="KPOST">12.5/North Auckland Line</SimpleData>
+		<SimpleData name="LINECODE">81</SimpleData>
+		<SimpleData name="LINE_ABBRV">NAL</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.739551598313824,-36.874001855550063,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">4067</SimpleData>
+		<SimpleData name="KM">13.5</SimpleData>
+		<SimpleData name="LINE">North Auckland Line</SimpleData>
+		<SimpleData name="KPOST">13.5/North Auckland Line</SimpleData>
+		<SimpleData name="LINECODE">81</SimpleData>
+		<SimpleData name="LINE_ABBRV">NAL</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.728952639350354,-36.876643388967643,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">4068</SimpleData>
+		<SimpleData name="KM">14.5</SimpleData>
+		<SimpleData name="LINE">North Auckland Line</SimpleData>
+		<SimpleData name="KPOST">14.5/North Auckland Line</SimpleData>
+		<SimpleData name="LINECODE">81</SimpleData>
+		<SimpleData name="LINE_ABBRV">NAL</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.718382819469213,-36.87886664650447,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">4069</SimpleData>
+		<SimpleData name="KM">15.5</SimpleData>
+		<SimpleData name="LINE">North Auckland Line</SimpleData>
+		<SimpleData name="KPOST">15.5/North Auckland Line</SimpleData>
+		<SimpleData name="LINECODE">81</SimpleData>
+		<SimpleData name="LINE_ABBRV">NAL</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.712410787316202,-36.886323414585618,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">4070</SimpleData>
+		<SimpleData name="KM">16.5</SimpleData>
+		<SimpleData name="LINE">North Auckland Line</SimpleData>
+		<SimpleData name="KPOST">16.5/North Auckland Line</SimpleData>
+		<SimpleData name="LINECODE">81</SimpleData>
+		<SimpleData name="LINE_ABBRV">NAL</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.704808311815526,-36.892942884239439,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">4071</SimpleData>
+		<SimpleData name="KM">17.5</SimpleData>
+		<SimpleData name="LINE">North Auckland Line</SimpleData>
+		<SimpleData name="KPOST">17.5/North Auckland Line</SimpleData>
+		<SimpleData name="LINECODE">81</SimpleData>
+		<SimpleData name="LINE_ABBRV">NAL</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.698988341227732,-36.899382397530552,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">4072</SimpleData>
+		<SimpleData name="KM">18.5</SimpleData>
+		<SimpleData name="LINE">North Auckland Line</SimpleData>
+		<SimpleData name="KPOST">18.5/North Auckland Line</SimpleData>
+		<SimpleData name="LINECODE">81</SimpleData>
+		<SimpleData name="LINE_ABBRV">NAL</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.694793617732444,-36.907544184351543,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">4073</SimpleData>
+		<SimpleData name="KM">19.5</SimpleData>
+		<SimpleData name="LINE">North Auckland Line</SimpleData>
+		<SimpleData name="KPOST">19.5/North Auckland Line</SimpleData>
+		<SimpleData name="LINECODE">81</SimpleData>
+		<SimpleData name="LINE_ABBRV">NAL</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.683997147654765,-36.909468702281053,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">4074</SimpleData>
+		<SimpleData name="KM">20.5</SimpleData>
+		<SimpleData name="LINE">North Auckland Line</SimpleData>
+		<SimpleData name="KPOST">20.5/North Auckland Line</SimpleData>
+		<SimpleData name="LINECODE">81</SimpleData>
+		<SimpleData name="LINE_ABBRV">NAL</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.673184931823755,-36.911416709702735,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">4075</SimpleData>
+		<SimpleData name="KM">21.5</SimpleData>
+		<SimpleData name="LINE">North Auckland Line</SimpleData>
+		<SimpleData name="KPOST">21.5/North Auckland Line</SimpleData>
+		<SimpleData name="LINECODE">81</SimpleData>
+		<SimpleData name="LINE_ABBRV">NAL</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.66244871304005,-36.911550953815208,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">4076</SimpleData>
+		<SimpleData name="KM">22.5</SimpleData>
+		<SimpleData name="LINE">North Auckland Line</SimpleData>
+		<SimpleData name="KPOST">22.5/North Auckland Line</SimpleData>
+		<SimpleData name="LINECODE">81</SimpleData>
+		<SimpleData name="LINE_ABBRV">NAL</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.651604363627314,-36.909756638100582,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">4077</SimpleData>
+		<SimpleData name="KM">23.5</SimpleData>
+		<SimpleData name="LINE">North Auckland Line</SimpleData>
+		<SimpleData name="KPOST">23.5/North Auckland Line</SimpleData>
+		<SimpleData name="LINECODE">81</SimpleData>
+		<SimpleData name="LINE_ABBRV">NAL</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.64125431693418,-36.906343557422829,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">4078</SimpleData>
+		<SimpleData name="KM">24.5</SimpleData>
+		<SimpleData name="LINE">North Auckland Line</SimpleData>
+		<SimpleData name="KPOST">24.5/North Auckland Line</SimpleData>
+		<SimpleData name="LINECODE">81</SimpleData>
+		<SimpleData name="LINE_ABBRV">NAL</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.63326704823703,-36.900134278893056,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">4079</SimpleData>
+		<SimpleData name="KM">25.5</SimpleData>
+		<SimpleData name="LINE">North Auckland Line</SimpleData>
+		<SimpleData name="KPOST">25.5/North Auckland Line</SimpleData>
+		<SimpleData name="LINECODE">81</SimpleData>
+		<SimpleData name="LINE_ABBRV">NAL</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.6315640064268,-36.891391167171832,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">4080</SimpleData>
+		<SimpleData name="KM">26.5</SimpleData>
+		<SimpleData name="LINE">North Auckland Line</SimpleData>
+		<SimpleData name="KPOST">26.5/North Auckland Line</SimpleData>
+		<SimpleData name="LINECODE">81</SimpleData>
+		<SimpleData name="LINE_ABBRV">NAL</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.630941152000048,-36.882414928453066,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">4081</SimpleData>
+		<SimpleData name="KM">31.5</SimpleData>
+		<SimpleData name="LINE">North Auckland Line</SimpleData>
+		<SimpleData name="KPOST">31.5/North Auckland Line</SimpleData>
+		<SimpleData name="LINECODE">81</SimpleData>
+		<SimpleData name="LINE_ABBRV">NAL</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.583302624817037,-36.867254785340862,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">4082</SimpleData>
+		<SimpleData name="KM">30.5</SimpleData>
+		<SimpleData name="LINE">North Auckland Line</SimpleData>
+		<SimpleData name="KPOST">30.5/North Auckland Line</SimpleData>
+		<SimpleData name="LINECODE">81</SimpleData>
+		<SimpleData name="LINE_ABBRV">NAL</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.594434765715533,-36.867521561443411,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">4083</SimpleData>
+		<SimpleData name="KM">29.5</SimpleData>
+		<SimpleData name="LINE">North Auckland Line</SimpleData>
+		<SimpleData name="KPOST">29.5/North Auckland Line</SimpleData>
+		<SimpleData name="LINECODE">81</SimpleData>
+		<SimpleData name="LINE_ABBRV">NAL</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.605551827351178,-36.868333080097862,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">4084</SimpleData>
+		<SimpleData name="KM">27.5</SimpleData>
+		<SimpleData name="LINE">North Auckland Line</SimpleData>
+		<SimpleData name="KPOST">27.5/North Auckland Line</SimpleData>
+		<SimpleData name="LINECODE">81</SimpleData>
+		<SimpleData name="LINE_ABBRV">NAL</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.625758338764399,-36.875220903179923,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">4085</SimpleData>
+		<SimpleData name="KM">28.5</SimpleData>
+		<SimpleData name="LINE">North Auckland Line</SimpleData>
+		<SimpleData name="KPOST">28.5/North Auckland Line</SimpleData>
+		<SimpleData name="LINECODE">81</SimpleData>
+		<SimpleData name="LINE_ABBRV">NAL</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.615665541755845,-36.871413364051897,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">4086</SimpleData>
+		<SimpleData name="KM">32.5</SimpleData>
+		<SimpleData name="LINE">North Auckland Line</SimpleData>
+		<SimpleData name="KPOST">32.5/North Auckland Line</SimpleData>
+		<SimpleData name="LINECODE">81</SimpleData>
+		<SimpleData name="LINE_ABBRV">NAL</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.572536303932367,-36.866752798257423,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">1183</SimpleData>
+		<SimpleData name="KM">0.5</SimpleData>
+		<SimpleData name="LINE">Newmarket Branch</SimpleData>
+		<SimpleData name="KPOST">0.5/Newmarket Branch</SimpleData>
+		<SimpleData name="LINECODE">82</SimpleData>
+		<SimpleData name="LINE_ABBRV">NWMKT</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.779302947980113,-36.867996487243765,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">1193</SimpleData>
+		<SimpleData name="KM">0</SimpleData>
+		<SimpleData name="LINE">Onehunga Branch</SimpleData>
+		<SimpleData name="KPOST">0.0/Onehunga Branch</SimpleData>
+		<SimpleData name="LINECODE">83</SimpleData>
+		<SimpleData name="LINE_ABBRV">ONHGA</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.814074420540805,-36.908110898339963,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">1200</SimpleData>
+		<SimpleData name="KM">1</SimpleData>
+		<SimpleData name="LINE">Manukau Branch</SimpleData>
+		<SimpleData name="KPOST">1/Manukau Branch</SimpleData>
+		<SimpleData name="LINECODE">86</SimpleData>
+		<SimpleData name="LINE_ABBRV">MANUK</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.869721656971308,-36.996678981777137,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">1201</SimpleData>
+		<SimpleData name="KM">0</SimpleData>
+		<SimpleData name="LINE">Manukau Branch</SimpleData>
+		<SimpleData name="KPOST">0/Manukau Branch</SimpleData>
+		<SimpleData name="LINECODE">86</SimpleData>
+		<SimpleData name="LINE_ABBRV">MANUK</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.859785285948107,-36.99537995181209,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">1725</SimpleData>
+		<SimpleData name="KM">1</SimpleData>
+		<SimpleData name="LINE">Newmarket Branch</SimpleData>
+		<SimpleData name="KPOST">1/Newmarket Branch</SimpleData>
+		<SimpleData name="LINECODE">82</SimpleData>
+		<SimpleData name="LINE_ABBRV">NWMKT</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.78208430078783,-36.864141753754218,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">1726</SimpleData>
+		<SimpleData name="KM">2</SimpleData>
+		<SimpleData name="LINE">Newmarket Branch</SimpleData>
+		<SimpleData name="KPOST">2/Newmarket Branch</SimpleData>
+		<SimpleData name="LINECODE">82</SimpleData>
+		<SimpleData name="LINE_ABBRV">NWMKT</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.778010959852622,-36.855859111721294,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">1727</SimpleData>
+		<SimpleData name="KM">3</SimpleData>
+		<SimpleData name="LINE">Newmarket Branch</SimpleData>
+		<SimpleData name="KPOST">3/Newmarket Branch</SimpleData>
+		<SimpleData name="LINECODE">82</SimpleData>
+		<SimpleData name="LINE_ABBRV">NWMKT</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.777842702485458,-36.848479179120659,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">1728</SimpleData>
+		<SimpleData name="KM">1</SimpleData>
+		<SimpleData name="LINE">Onehunga Branch</SimpleData>
+		<SimpleData name="KPOST">1/Onehunga Branch</SimpleData>
+		<SimpleData name="LINECODE">83</SimpleData>
+		<SimpleData name="LINE_ABBRV">ONHGA</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.809882801021075,-36.914381684662374,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">1729</SimpleData>
+		<SimpleData name="KM">2</SimpleData>
+		<SimpleData name="LINE">Onehunga Branch</SimpleData>
+		<SimpleData name="KPOST">2/Onehunga Branch</SimpleData>
+		<SimpleData name="LINECODE">83</SimpleData>
+		<SimpleData name="LINE_ABBRV">ONHGA</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.801279391438925,-36.920187764012532,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">1730</SimpleData>
+		<SimpleData name="KM">3</SimpleData>
+		<SimpleData name="LINE">Onehunga Branch</SimpleData>
+		<SimpleData name="KPOST">3/Onehunga Branch</SimpleData>
+		<SimpleData name="LINECODE">83</SimpleData>
+		<SimpleData name="LINE_ABBRV">ONHGA</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.792117443476911,-36.924650010679017,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">1731</SimpleData>
+		<SimpleData name="KM">2.5</SimpleData>
+		<SimpleData name="LINE">Newmarket Branch</SimpleData>
+		<SimpleData name="KPOST">2.5/Newmarket Branch</SimpleData>
+		<SimpleData name="LINECODE">82</SimpleData>
+		<SimpleData name="LINE_ABBRV">NWMKT</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.775902942462579,-36.851695068877056,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">1732</SimpleData>
+		<SimpleData name="KM">1.5</SimpleData>
+		<SimpleData name="LINE">Newmarket Branch</SimpleData>
+		<SimpleData name="KPOST">1.5/Newmarket Branch</SimpleData>
+		<SimpleData name="LINECODE">82</SimpleData>
+		<SimpleData name="LINE_ABBRV">NWMKT</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.780306358964822,-36.859960449167538,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">1733</SimpleData>
+		<SimpleData name="KM">0</SimpleData>
+		<SimpleData name="LINE">Newmarket Branch</SimpleData>
+		<SimpleData name="KPOST">0/Newmarket Branch</SimpleData>
+		<SimpleData name="LINECODE">82</SimpleData>
+		<SimpleData name="LINE_ABBRV">NWMKT</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.778887979672191,-36.872428341200852,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">1734</SimpleData>
+		<SimpleData name="KM">1.5</SimpleData>
+		<SimpleData name="LINE">Onehunga Branch</SimpleData>
+		<SimpleData name="KPOST">1.5/Onehunga Branch</SimpleData>
+		<SimpleData name="LINECODE">83</SimpleData>
+		<SimpleData name="LINE_ABBRV">ONHGA</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.805582854869556,-36.917281751234199,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">1735</SimpleData>
+		<SimpleData name="KM">0.5</SimpleData>
+		<SimpleData name="LINE">Onehunga Branch</SimpleData>
+		<SimpleData name="KPOST">0.5/Onehunga Branch</SimpleData>
+		<SimpleData name="LINECODE">83</SimpleData>
+		<SimpleData name="LINE_ABBRV">ONHGA</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.814735502491516,-36.912132043940737,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">1736</SimpleData>
+		<SimpleData name="KM">2.5</SimpleData>
+		<SimpleData name="LINE">Onehunga Branch</SimpleData>
+		<SimpleData name="KPOST">2.5/Onehunga Branch</SimpleData>
+		<SimpleData name="LINECODE">83</SimpleData>
+		<SimpleData name="LINE_ABBRV">ONHGA</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.797384129270426,-36.923427109980686,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="FID">1737</SimpleData>
+		<SimpleData name="KM">3.5</SimpleData>
+		<SimpleData name="LINE">Onehunga Branch</SimpleData>
+		<SimpleData name="KPOST">3.5/Onehunga Branch</SimpleData>
+		<SimpleData name="LINECODE">83</SimpleData>
+		<SimpleData name="LINE_ABBRV">ONHGA</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.786712411154383,-36.9254810649104,0</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
